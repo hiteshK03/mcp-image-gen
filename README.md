@@ -67,7 +67,6 @@ The Cursor agent orchestrates across servers automatically.
 
 - Python 3.10+
 - ~2–13 GB RAM depending on model tier
-- x86_64 CPU with AVX2 (Intel or AMD)
 
 ## License
 
